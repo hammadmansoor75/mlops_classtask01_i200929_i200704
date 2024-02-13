@@ -1,0 +1,2 @@
+numpy==<version>
+pytest==<version>
