@@ -1,4 +1,7 @@
 
+JEHANZEB AKRAM
+
+
 Requirements for the sum even numbers function
 
     Calculates the sum of all even numbers in a list.
@@ -8,6 +11,7 @@ Requirements for the sum even numbers function
 
     Returns:
     - sum_of_evens (int or float): The sum of all even numbers in the input list.
+
 numpy==<version>
 pytest==<version>
 
